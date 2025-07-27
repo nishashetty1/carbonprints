@@ -4,6 +4,8 @@
   <img src="public/logo.png" alt="Logo" width="100"/>
 </div>
 
+[Live Link](https://carbonprints-calculator.vercel.app/)
+
 **CarbonPrints** is a web-based carbon footprint calculator designed for college students and staff. It helps users estimate their monthly carbon emissions based on their daily activities and provides actionable insights to reduce their environmental impact.
 
 ---
