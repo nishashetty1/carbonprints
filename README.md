@@ -1,6 +1,8 @@
 # CarbonPrints: Carbon Footprint Calculator
 
-![Logo](public/logo.png)
+<div align="center">
+  <img src="public/logo.png" alt="Logo" width="100"/>
+</div>
 
 **CarbonPrints** is a web-based carbon footprint calculator designed for college students and staff. It helps users estimate their monthly carbon emissions based on their daily activities and provides actionable insights to reduce their environmental impact.
 
@@ -64,8 +66,9 @@
 
 ## 🖼️ Screenshots
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-![Survey Screenshot](screenshots/survey.png)
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/e7c24d88-7b7a-4ac2-94ae-ddae7fde59eb" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/1c6d9059-c0cb-4691-aaa0-86318ce35431" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/207e1e9b-ec47-444e-964a-bd50cee08a2d" />
 
 ---
 
